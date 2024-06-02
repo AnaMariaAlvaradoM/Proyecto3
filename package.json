@@ -1,0 +1,22 @@
+{
+    "name": "proyecto3",
+    "version": "1.0.0",
+    "description": "Proyecto 3 - Empleado",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": [
+        "proyecto",
+        "empleado",
+        "nodejs",
+        "express",
+        "java",
+        "html",
+        "css",
+        "js"
+    ],
+    "dependencies": {
+        "express": "^4.19.2"
+    }
+}
